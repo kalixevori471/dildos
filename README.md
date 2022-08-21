@@ -7,4 +7,4 @@ cd dildos
 
 python3 dildos.py
 
-python3 dildos.py -t --target -tr --threads -s --sleep
+python3 dildos.py -t --target -tr --threads -u user_agents.txt -s --sleep
